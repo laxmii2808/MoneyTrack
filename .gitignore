@@ -1,0 +1,16 @@
+# System files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Node modules
+backend/node_modules/
+frontend/node_modules/
+
+# Environment files
+backend/config/config.env
+frontend/.env
+
+# Build folders
+frontend/build/
+backend/dist/
