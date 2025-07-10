@@ -37,20 +37,6 @@
 - Helmet & Morgan (Security & Logs)
 - CORS & dotenv
 
----
-
-MoneyTrack/
-├── backend/
-│ ├── config/
-│ ├── controllers/
-│ ├── DB/
-│ ├── Routers/
-│ └── server.js
-├── frontend/
-│ ├── public/
-│ ├── src/
-│ ├── package.json
-└── README.md
 
 
 ## Setup Instructions
@@ -61,16 +47,16 @@ cd backend
 npm install
 # Add your Mongo URI and PORT in config/config.env
 npm start
+
 Frontend (Netlify)
-bash
-Copy
-Edit
 cd frontend
 npm install
 npm start
+
 Update API URLs
 In frontend/utils/ApiRequest.js, replace:
-const host = "https://moneytrack-23.onrender.com"; 
+const host = "https://moneytrack-23.onrender.com";
+
  Deployment
 🔹 Backend (Render)
 Service root directory: backend
