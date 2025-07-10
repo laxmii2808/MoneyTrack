@@ -2,13 +2,6 @@
 
 **MoneyTrack** is a full-stack expense tracker web application that helps users manage and visualize their income and expenses. It includes secure user authentication, dynamic transaction management, and data visualization.
 
-## Live Demo
-
-- **Frontend (Netlify):** [moneytrack23.netlify.app](https://moneytrack23.netlify.app)
-- **Backend (Render):** [moneytrack-2.onrender.com](https://moneytrack-23.onrender.com)
-
----
-
 ## Features
 
 -  User authentication (Register & Login)
