@@ -1,4 +1,4 @@
-const host = "https://moneytrack-3.onrender.com/";
+const host = "https://moneytrack-23.onrender.com";
 export const setAvatarAPI = `${host}/api/auth/setAvatar`;
 export const registerAPI = `${host}/api/auth/register`;
 export const loginAPI = `${host}/api/auth/login`;
