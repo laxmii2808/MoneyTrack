@@ -11,6 +11,3 @@ frontend/node_modules/
 backend/config/config.env
 frontend/.env
 
-# Build folders
-frontend/build/
-backend/dist/
